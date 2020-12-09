@@ -31,3 +31,18 @@ msgstr "Es tut mir leid, das war nicht meine Nummer. Vielleicht nächstes Mal?"
 
 msgid "HELLOAPP_NO_NUMBER_MESSAGE"
 msgstr "Ich hatte Probleme dich zu verstehen. Bitte rate eine Nummer von 1 bis 10."
+
+msgid "HAPPINESS_JOKE"
+msgstr "Ich möchte Sie mit diesem Witz zum Lächeln bringen!  {joke}"
+
+msgid "HAPPINESS_YOUTUBE_VIDEO"
+msgstr "Hier ist etwas Besonderes für Sie {video_link}"
+
+msgid "HAPPINESS_SONG"
+msgstr "Hier ist ein stimmungsaufhellender Song für Sie {song_link}"
+
+msgid "HAPPINESS_REQUEST_ERROR"
+msgstr "Ich hatte Probleme, einen Witz zu bekommen. Der Fehler ist {err}"
+
+msgid "HAPPINESS_RESPONSE_ERROR"
+msgstr "Ich hatte Probleme, einen Witz für dich zu bekommen. Es tut mir leid :("
