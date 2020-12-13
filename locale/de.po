@@ -35,8 +35,17 @@ msgstr "Ich hatte Probleme dich zu verstehen. Bitte rate eine Nummer von 1 bis 1
 msgid "HAPPINESS_JOKE"
 msgstr "Ich möchte Sie mit diesem Witz zum Lächeln bringen!  {joke}"
 
-msgid "HAPPINESS_YOUTUBE_VIDEO"
-msgstr "Hier ist etwas Besonderes für Sie {video_link}"
+msgid "HAPPINESS_TITLE"
+msgstr "Something to cheer you up"
+
+msgid "HAPPINESS_SUB_TITLE"
+msgstr "Hope this makes your feel better"
+
+msgid "HAPPINESS_ACTION_TEXT"
+msgstr "Lets be happy"
+
+msgid "HAPPINESS_CHECK_PHONE"
+msgstr "Ich habe etwas geschickt, um dich auf deinem Handy aufzuheitern. Hör zu."
 
 msgid "HAPPINESS_SONG"
 msgstr "Hier ist ein stimmungsaufhellender Song für Sie {song_link}"

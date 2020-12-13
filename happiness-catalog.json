@@ -1,0 +1,18 @@
+{
+  "v2": {
+    "showsInCatalog": true,
+    "displayName": "Glücksassistent",
+    "headline": "A skill to lift your mood when you are feeling down",
+    "description": "Connects you with funny jokes, shares random viral funny clips, dials a number/sends a message to a random friend(after confirmation) ",
+    "iconUrl": "https://raw.githubusercontent.com/revolutionisme/skill-happiness-python/master/happiness.png",
+    "design": {
+      "backgroundColor": "#ffffff"
+    },
+    "examplePhrases": [
+      "Machen Sie mich glücklich",
+      "Ich bin ein bisschen traurig",
+      "glücklich"
+    ]
+  },
+  "fileVersion": 1
+}
